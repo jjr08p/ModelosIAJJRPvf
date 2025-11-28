@@ -1,0 +1,14 @@
+{
+  "tfjsVersion": "4.22.0",
+  "tmVersion": "2.4.7",
+  "packageVersion": "0.8.4",
+  "packageName": "@teachablemachine/audio",
+  "modelName": "audio-idiomas-jj",
+  "labels": [
+    "espanol",
+    "ingles",
+    "aleman"
+  ],
+  "sampleRateHz": 16000,
+  "durationSeconds": 5.0
+}
